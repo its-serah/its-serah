@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **UX Design through pursing Google UX Design Professional Certificate**
 
-- 📫 How to reach me **sarahe.rachdi@gmail.com**
+- 📫 How to reach me **serah.elrashidi@gmail.com**
 
 - ⚡ Fun fact **Beyond tech, my artistic side comes alive—I'm a painter. Picture this: a warm coffee, a good book , and a blank canvas waiting for strokes of creativity.**
 
