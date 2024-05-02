@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its-serah&label=Profile%20views&color=0e75b6&style=flat" alt="its-serah" /> </p>
 
-- 🔭 I’m currently working on Building a Knowledge Graph Pipeline as a part of my Thesis in Computer Science [https://github.com/its-serah/Text2KG-Benchmark](https://github.com/its-serah/Text2KG-Benchmark)
+- 🔭 I’m currently working on Building a Knowledge Graph Pipeline as a part of my Thesis in Computer Science 
 
 - 🌱 I’m currently learning **UX Design through pursing Google UX Design Professional Certificate**
 
