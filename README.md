@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently working on Building a Knowledge Graph Pipeline as a part of my Thesis in Computer Science 
 
-- 🌱 I’m currently learning **UX Design through pursing Google UX Design Professional Certificate**
 
 - 📫 How to reach me **serah.elrashidi@gmail.com**
 
