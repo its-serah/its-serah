@@ -3,12 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its-serah&label=Profile%20views&color=0e75b6&style=flat" alt="its-serah" /> </p>
 
-- 🔭 I’m currently working on Building a Knowledge Graph Pipeline as a part of my Thesis in Computer Science 
 
 
 - 📫 How to reach me **serah.elrashidi@gmail.com**
 
-- ⚡ Fun fact **Beyond tech, my artistic side comes alive—I'm a painter. Picture this: a warm coffee, a good book , and a blank canvas waiting for strokes of creativity.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
