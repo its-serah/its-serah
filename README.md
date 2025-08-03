@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 you can call me Serah</h1>
-<h3 align="center">AI Research Engineer | Software Developer | Community Builder</h3>
+<h3 align="center">AI Research Engineer | Full Stack Engineer | Community Builder</h3>
 <h4 align="center">A Curious Mind Navigating the World of Tech with Creativity and Passion</h4>
 
 <p align="left">
